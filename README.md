@@ -10,8 +10,6 @@ I'm a Security analyst
 * 🖥️  See my portfolio at [N1D0 | Cybersecurity portfolio](http://n1d0nt.github.io/)
 * ✉️  You can contact me at [n1do28.sh@gmail.com](mailto:n1do28.sh@gmail.com)
 * 🧠  I'm learning computer science
-* 🤝  I'm open to collaborating on open source projetcs
-
 ### Skills
 
 
